@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Agricultural Economics
 - 💞️ Phone number: (860)-208-3019
 - 📫 Mailing Address: ruirui.dang@uconn.edu 
+- Nice to meet you!
 
 <!---
 RuiruiDang/RuiruiDang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
